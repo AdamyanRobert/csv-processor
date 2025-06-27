@@ -8,7 +8,7 @@
 
 # Usage Examples
 
-Filter rows where price > 500
+Filter rows using where 
 
 ![screen1](https://github.com/AdamyanRobert/csv-processor/blob/master/screen1.png)
 
